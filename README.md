@@ -3,11 +3,17 @@ I build full-stack web applications that are smarter — not just functional.
 As a MERN Stack Developer with a focus on AI integration, I combine React.js, Node.js, MongoDB, and Express with OpenAI APIs, RAG pipelines, and custom chatbot development to ship applications that actually think.
 
 🚀 Built an AI Career Assistant — resume improver + cover letter generator + voice mock interview using OpenAI & Web Speech API
+
 💼 Built JobNest — full-stack job portal with 3 role dashboards, resume upload & automated email notifications
+
 📚 Built an LMS — with quiz engine, role-based access, and AI Study Assistant
+
 🤖 Built a RAG Portfolio Chatbot — using OpenAI embeddings, no vector DB, plain .txt knowledge base
+
 🎓 BS Computer Science — Virtual University of Pakistan (2024)
+
 📍 Pakistan · Open to Remote roles worldwide
+
 💼 Looking for Junior · Associate · MERN Developer roles
 
 
