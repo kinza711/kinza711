@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Im Kinza 
+Hi! Im Kinza, MERN Stack Developer
 
 I build full-stack web applications that are smarter — not just functional.
 As a MERN Stack Developer with a focus on AI integration, I combine React.js, Node.js, MongoDB, and Express with OpenAI APIs, RAG pipelines, and custom chatbot development to ship applications that actually think.
